@@ -1,1 +1,3 @@
-# Python-practice-projects
+# Python-practice-project
+
+##### Plotly tutorial
